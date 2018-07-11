@@ -1,0 +1,10 @@
+--check version on MSSQL Server 
+select @@version
+go
+--
+select @@hostname
+go
+--
+select @@edition
+go
+--
